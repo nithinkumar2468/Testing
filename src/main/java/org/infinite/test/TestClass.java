@@ -19,7 +19,7 @@ public class TestClass {
 		student.setUsername("ganesh");
 		student.setPassword("ganesh123");
 		student.setTime(now);
-		
+		System.out.println("Working");
 		
 		//student.setTime();
 
